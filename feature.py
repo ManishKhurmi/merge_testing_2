@@ -1,1 +1,1 @@
-# This line will create a merge conflict
+# This is a proposed new feature
